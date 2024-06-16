@@ -39,13 +39,6 @@ sf.hwzb.tv/
 3. **导入数据库结构**：在MySQL数据库中导入项目所需的数据库结构。
 4. **访问项目**：通过浏览器访问 `index.php` 以使用项目功能。
 
-## 删除冗余文件
-在项目根目录中，有两个文件 `test` 和 `tets.php` 是冗余文件，可以在部署前删除。
-
-```bash
-rm sf.hwzb.tv/test
-rm sf.hwzb.tv/tets.php
-```
 
 ## 贡献指南
 欢迎对本项目进行贡献，您可以通过以下步骤提交Pull Request：
